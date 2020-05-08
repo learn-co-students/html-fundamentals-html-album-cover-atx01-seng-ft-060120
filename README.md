@@ -1,9 +1,14 @@
 # HTML Album Cover
-
+<!DOCTYPE html>
+<html>
+<head>
 <img src="https://after-school-assets.s3.amazonaws.com/happy.gif" width="300px" hspace="10" alt="a still from the 'Happy' music video by Pharrell Williams"/>
+</head>
+<body>
 
+</body>
+<html>
 ## Learning Goal
-
 - Apply header, paragraph, image and span tags
 
 ## Introduction
